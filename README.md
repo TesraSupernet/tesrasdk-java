@@ -1,6 +1,6 @@
 
 <h1 align="center">JAVA SDK For Tesra  </h1>
-<h4 align="center">Version 1.0.0 </h4>
+<h4 align="center">Version 0.0.1 </h4>
 
 ## Overview
 
